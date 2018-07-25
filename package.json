@@ -1,0 +1,20 @@
+{
+  "name": "@forzoom/vue-load",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/vue-load.cjs.js",
+  "module": "dist/vue-load.esm.js",
+  "scripts": {
+    "build": "node build/build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  	"type": "git",
+  	"url": "https://github.com/Forzoom/vue-load.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^0.63.4"
+  }
+}
